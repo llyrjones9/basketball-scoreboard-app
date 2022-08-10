@@ -3,7 +3,6 @@
     font-family: clock;
 }
 
-
 body {
     margin: 0;
     background: #1B244A;
@@ -71,4 +70,3 @@ button:active {
 #reset-btn{
     width: 200px;
 }
-
