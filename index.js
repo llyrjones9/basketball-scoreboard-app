@@ -15,7 +15,7 @@ function update_score(){
 // Run function to set scores to zero on start
 update_score()
 
-// Function which run when the appropraite buttons are
+// Functions which run when the appropriate buttons are
 // activated in the DOM (self-explanatory)
 function add_one_home(){
     homeScore += 1
